@@ -1,0 +1,13 @@
+.box.even {
+    background-color: #cccccc;
+}
+
+.box.odd {
+    background-color: #aaaaaa;
+}
+
+.box {
+    height: 190px;
+    padding : 8px; 
+    text-align: center;
+}
